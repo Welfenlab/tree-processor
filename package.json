@@ -1,6 +1,6 @@
 {
   "name": "@more-markdown/tree-processor",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Plugin for more-markdown to support rendering tree files.",
   "main": "lib/tree_processor.js",
   "dependencies": {
