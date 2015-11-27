@@ -33,7 +33,7 @@ parseTree = (string, graph) ->
 
   prevChar = ""
   pos = 0
-  console.log string.length
+  #console.log string.length
   # i should refactor this
   while pos < string.length
     c = string[pos++]
@@ -46,7 +46,7 @@ parseTree = (string, graph) ->
         brackets++
         if string[pos] == ')'
           brackets--
-          console.log pos, string
+          #console.log pos, string
           tempName = '#'
           addName()
           addToGraph(graph)
