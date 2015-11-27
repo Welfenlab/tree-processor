@@ -1,6 +1,6 @@
 {
   "name": "@more-markdown/tree-processor",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Plugin for more-markdown to support rendering tree files.",
   "main": "lib/tree_processor.js",
   "dependencies": {
@@ -26,7 +26,7 @@
     "Tree",
     "GraphViz"
   ],
-  "repository": "gitlab:Welfenlab/tree-processor",
+  "repository": "github:Welfenlab/tree-processor",
   "contributors": [
     "Maximilian Klein <dasmaxl@gmail.com> (https://github.com/LittleHelicase)",
     "Maik Marschner (https://github.com/leMaik)",
